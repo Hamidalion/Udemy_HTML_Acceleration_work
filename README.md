@@ -1,4 +1,4 @@
-# Udemy_HTML_Acceleration_work
+# Udemy_HTML_Bootstrap
 This repository was created as a repository for performing some of the learning tasks of the Udemy course.
 https://www.udemy.com/join/login-popup/?next=/course/webdeveloper/learn/
 
